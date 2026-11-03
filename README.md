@@ -35,10 +35,10 @@ Este repositorio contiene la solución modular y de alto rendimiento en Python p
 ![alt text](image-3.png)
 5. Problema 5: Transformación de Coordenadas Cartesianas
 ![alt text](image-4.png)
-## 🚀 Instrucciones de Ejecución
 6. Salir
 ![alt text](image-5.png)
 
+## 🚀 Instrucciones de Ejecución
 1. Asegúrate de tener Python instalado junto con la librería `numpy`:
    ```bash
    pip install numpy
